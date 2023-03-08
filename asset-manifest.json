@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.f581e2c1.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.f581e2c1.js.map": "/static/js/main.f581e2c1.js.map"
+    "main.css": "/EastZero123.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/EastZero123.github.io/static/js/main.7fb68531.js",
+    "index.html": "/EastZero123.github.io/index.html",
+    "main.e6c13ad2.css.map": "/EastZero123.github.io/static/css/main.e6c13ad2.css.map",
+    "main.7fb68531.js.map": "/EastZero123.github.io/static/js/main.7fb68531.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f581e2c1.js"
+    "static/js/main.7fb68531.js"
   ]
 }
